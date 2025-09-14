@@ -1,1 +1,1 @@
-# Clarity - Autonomous Software Engineers in your terminal.
+# Clarity - AI Agentic Software Engineers in your terminal.
